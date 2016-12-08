@@ -1,4 +1,4 @@
-FLxER AV Mixer 5.0 ALPHA
+FLxER AV Mixer 5.1 ALPHA
 =============
 PC / MAC / LINUX
 
@@ -19,54 +19,30 @@ Published
 /                                         /
 ///////////////////////////////////////////
 ```
-Waiting Adobe solution for AS3 and "old" AS2 support... (crazy!!!), here we have a new version of FLxER with many new features.
-The most important new feature is the possibility to manage many video out or non standard size video out from 1 or many FLxER locally or remoting, some examples:
-- 1 Computer that manage a video out of 2400x600 (3 x 800x600) with 3 video in and 4 channel of graphics over
-- Many computer connected to a network (local and wireless also) that manage togheter the mix on a computer connected to the projector (FLxER Orchestra)
-- Remote Vjing using internet connection
-- Vertical screen management
-- And many more...
+New version based on version 5.0 and finally an FLV, H.264 and SWF player for iPhone and iPad (maybe more... a AV mixer).
 
 Updates
 ------------
-- New MULTIPLE VIDEO OUT to manage how many screen you need from 1 laptop (ex triple head or multiple videocard)
-- With new MULTIPLE VIDEO OUT you can not show the FLxER Toolbar in the video out
-- With MULTIPLE VIDEO OUT you can manage every kind of size of screen (4:3, 16:9, wide screen, vertical screen ecc)
-- New REMOTE SENDER/RECEIVER to manage how many screen you need from any laptop connected to a network (no Flash media server need)
-- New FLxER SOCKET SERVER to manage REMOTE SENDER/RECEIVER without using Flash media server
-- Multiple video IN
-- New CODANOVA VMX VJ MIDI MAP
-- New SVG wipes loader ideal for MAPPING performances
-- 3D Controller on every channel
-- 3D Rotations (xyz) on transform palette
-- New TEXT READER more easy to customize (.fla included)
-- Sliders path click enabled
-- New SOLO function to have in one action 1 channel only
-- New RECORDER/PLAYER interface
-- Customizable colors interface
-- Vertical and horizontal flip on every channel
-- New scroll mode from keyboard: scroll on key press and load on key release
-- Bug fixed on AUDIO FEATURES
-- Some bug fixed
+- New version for iPhone and iPad, now you can add your files in the library only with ssh (jailbreak) or you can upload files directly from the Web by typing the URL
+- New Recorder, you can now save your set on a xml file like all programs!
+- New manager of the resize, not only on the larger side but also on the narrow one, ideal for adapting old 4:3 movies to 16:9
+- New DV-IN
+- New external application for Mapping (SVGwipesDrawer)
+- New application External Oscillator (not to be missed! thx to vj² aka Flavio Distefano)
+- Many bug fixes in particular MIDI, TXT EDITOR, etc.
 
-External panels (stand alone applications)
+The pack contains
 ------------
-- SVG wipes drawer you can draw and save live your maps
-- FLxEReasyPlaylistsBuilder.jar manage also your wipes
-- OaxoaTiles permit to multiply every single channel of FLxER
-
-The package contains
-------------
-- FLxER5alpha Application
-- FLxER5alphaMonitorOut
-- FLxER5alphaRemoteOut
+- FLxER5.1alpha (Application)
+- FLxER5.1alphaMonitorOut
+- FLxER5.1alphaRemoteOut
 - FLxEReasyPlaylistsBuilder.jar
 - FLxERremoteServer.jar
 - FLxERmidiManager.jar
 - OaxoaTiles
 - SVGwipesDrawer
 - Default Library
-- Wipes, Effects and DV-IN sources files
+- Sources files for Wipes, PlugIn and DV-IN
 
 BEFORE START 
 ------------
